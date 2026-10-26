@@ -1,0 +1,18 @@
+name,category,unit,price,available,description
+Basic Design Consultation,Design,visit,1500,yes,Demo fee for an initial design consultation; replace with approved company rate.
+Detailed Floor Plan,Design,plan,5000,yes,Demo fee for a detailed floor plan; scope must be confirmed.
+3D Exterior Visualization,Design,view,3500,yes,Demo fee for one exterior visualization.
+Site Assessment,Site Service,visit,2000,yes,Demo site assessment fee; travel charges are not included.
+Soil Test Coordination,Site Service,job,6000,yes,Demo coordination fee; laboratory charges may be separate.
+Basic Estimation Service,Consulting,job,2500,yes,Demo fee for preparing a preliminary estimate.
+Structural Design Coordination,Engineering,job,12000,yes,Demo coordination fee; engineering approval is project-specific.
+Electrical Layout Coordination,Engineering,job,4500,yes,Demo fee for electrical layout coordination.
+Plumbing Layout Coordination,Engineering,job,4500,yes,Demo fee for plumbing layout coordination.
+Interior Consultation,Interior,visit,3000,yes,Demo fee for an interior consultation.
+Tile Installation Labour,Labor,sq_ft,45,yes,Demo labour-only rate; materials excluded.
+Painting Labour,Labor,sq_ft,25,yes,Demo labour-only rate; surface preparation and materials excluded.
+Concrete Work Coordination,Construction,cu_m,1800,yes,Demo coordination rate; concrete materials excluded.
+Brickwork Labour,Labor,sq_ft,55,yes,Demo labour-only rate; bricks and mortar excluded.
+Waterproofing Consultation,Consulting,visit,2500,yes,Demo consultation fee; treatment and materials are separate.
+Roofing Inspection,Site Service,visit,3000,yes,Demo inspection fee; repair work excluded.
+Renovation Consultation,Consulting,visit,2000,yes,Demo consultation fee; not a renovation construction price.
